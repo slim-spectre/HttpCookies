@@ -1,0 +1,14 @@
+D:\Programming\C#\less2\hm1\Cookiesss\ReadingInstallingCookies\bin\Debug\net10.0\ReadingInstallingCookies.exe
+D:\Programming\C#\less2\hm1\Cookiesss\ReadingInstallingCookies\bin\Debug\net10.0\ReadingInstallingCookies.deps.json
+D:\Programming\C#\less2\hm1\Cookiesss\ReadingInstallingCookies\bin\Debug\net10.0\ReadingInstallingCookies.runtimeconfig.json
+D:\Programming\C#\less2\hm1\Cookiesss\ReadingInstallingCookies\bin\Debug\net10.0\ReadingInstallingCookies.dll
+D:\Programming\C#\less2\hm1\Cookiesss\ReadingInstallingCookies\bin\Debug\net10.0\ReadingInstallingCookies.pdb
+D:\Programming\C#\less2\hm1\Cookiesss\ReadingInstallingCookies\obj\Debug\net10.0\ReadingInstallingCookies.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\less2\hm1\Cookiesss\ReadingInstallingCookies\obj\Debug\net10.0\ReadingInstallingCookies.AssemblyInfoInputs.cache
+D:\Programming\C#\less2\hm1\Cookiesss\ReadingInstallingCookies\obj\Debug\net10.0\ReadingInstallingCookies.AssemblyInfo.cs
+D:\Programming\C#\less2\hm1\Cookiesss\ReadingInstallingCookies\obj\Debug\net10.0\ReadingInstallingCookies.csproj.CoreCompileInputs.cache
+D:\Programming\C#\less2\hm1\Cookiesss\ReadingInstallingCookies\obj\Debug\net10.0\ReadingInstallingCookies.dll
+D:\Programming\C#\less2\hm1\Cookiesss\ReadingInstallingCookies\obj\Debug\net10.0\refint\ReadingInstallingCookies.dll
+D:\Programming\C#\less2\hm1\Cookiesss\ReadingInstallingCookies\obj\Debug\net10.0\ReadingInstallingCookies.pdb
+D:\Programming\C#\less2\hm1\Cookiesss\ReadingInstallingCookies\obj\Debug\net10.0\ReadingInstallingCookies.genruntimeconfig.cache
+D:\Programming\C#\less2\hm1\Cookiesss\ReadingInstallingCookies\obj\Debug\net10.0\ref\ReadingInstallingCookies.dll
